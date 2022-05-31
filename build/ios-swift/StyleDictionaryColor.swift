@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 31 May 2022 00:04:14 GMT
+// Generated on Tue, 31 May 2022 00:21:45 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryColor {
-    public static let colorsMultipleFills0 = UIColor(red: 0.251, green: 1.000, blue: 0.729, alpha: 1)
+    public static let colorsMultipleFills0 = UIColor(red: 1.000, green: 0.251, blue: 0.522, alpha: 1)
     public static let colorsMultipleFills1 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.10196078431372549)
     public static let colorsRefBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
     public static let colorsSingleBlue = UIColor(red: 0.016, green: 0.290, blue: 1.000, alpha: 1)
