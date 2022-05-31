@@ -4,7 +4,7 @@
   "GradientGradientMultiplegrad1": {"gradientType":"radial","rotation":180,"stops":[{"position":0,"color":"#ffffffff"},{"position":1,"color":"#ffffff00"}]},
   "GradientGradientMultiplegrad2": {"gradientType":"angular","rotation":180,"stops":[{"position":0,"color":"#cf3030ff"},{"position":1,"color":"#ffffff00"}]},
   "GradientGradientMultiplegrad3": {"gradientType":"diamond","rotation":180,"stops":[{"position":0,"color":"#4a4fccff"},{"position":0.23,"color":"#ffffff00"}]},
-  "ColorColorsMultipleFills0": "#40ffba",
+  "ColorColorsMultipleFills0": "#ff4085",
   "ColorColorsMultipleFills1": "#000000",
   "ColorColorsSingleBlue": "#044aff",
   "ColorColorsRefBlue": "#044aff",
